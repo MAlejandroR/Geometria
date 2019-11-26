@@ -1,0 +1,27 @@
+input:number{
+ width: 40px;
+}
+canvas{
+    border: 2px solid blue;
+    margin-top:100px;
+    margin-left:100px;
+      
+}
+input[type=submit]{
+    font-size: 1.1em;
+    background: darksalmon;
+    color:brown;
+    font-weight: bold;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+fieldset{
+    width: 50px;
+    background: antiquewhite;
+
+}
+legend {
+    font-size: 1.3em;
+    color: brown;
+    font-weight: bold ;
+}
