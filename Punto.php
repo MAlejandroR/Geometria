@@ -31,7 +31,7 @@ class Punto {
      * @param $s tamaño
      * @source dibujamos el punto con el tamaño especificado
      */
-    public function dibujar( $color="#ff2626") {
+    public function dibujar($size, $color = "#ff2626") {
         $canvas = <<<FIN
         <!--dibujamos en él -->
         <script lang=javascript>
